@@ -1,0 +1,11 @@
+Популярне методы списка (LIST):
+list.append(x), list.sort([kye=sort_function]), list.pop([i]), list.count(x), list.index(x, [start [,end]])
+
+Популярные методы словаря (DICT): 
+dict.keys(), dict.values(), dict.items(), dict.fromkeys(seq[, value]), dict.get(key[, default]), 
+
+Популярные методы множества (SET): 
+set.add(elem), set.remove(elem), set.union(other, ...), set.intersection(other, ...), set.difference(other, ...)
+
+Популярные методы строки (STR):
+s.isdigit(), s.lower(), s.upper(), s.split(sep), s.format(*args, **kwargs)
